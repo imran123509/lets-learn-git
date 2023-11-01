@@ -1,0 +1,15 @@
+{
+  "name": "my-presonal-project-on-bc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "beckend",
+    "project"
+  ],
+  "author": "",
+  "license": "ISC"
+}
